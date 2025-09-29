@@ -75,8 +75,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "ello"
-    Content: Welcome to da blog. work in progress or whatever for now
+    Title: "Sufi's Blog"
+    Content: " I'm a student, and thus i like recipes that are \n 1) cheap \n 2) accessible \n 3) freaking delicious \n \n and that's what i'll be posting here. I do the testing and the trial and error, and you get to reap the rewards. Happy cooking!"
 
   socialIcons:
     - name: github
@@ -92,9 +92,10 @@ params:
       SiteVerificationTag: "XYZabc"
 
   cover:
-    hidden: true # hide everywhere but not in structured data
-    hiddenInList: true # hide on list pages and home
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: false # hide on list pages and home
     hiddenInSingle: true # hide on single page
+    # responsiveImages: false
 
   editPost:
     URL: "https://github.com/<path_to_repo>/content"
@@ -114,6 +115,12 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
+    - name: Archive
+      url: archives
+      weight: 5
+    - name: Search
+      url: search/
+      weight: 10
     - identifier: categories
       name: categories
       url: /categories/
