@@ -40,7 +40,7 @@ editPost:
 
 # Maximum Versatility.
 
-An extremely flextible dish that, despite its north african heritage, can be made to taste like almost anything, with a high protein low calorie variant for the gymbros. Indian, korean, middle eastern, or italian, you can make it taste different every time. **make sure to read the variations section for various improvements on the base recipe.**
+An extremely flexible dish that, despite its north african heritage, can be made to taste like almost anything, with a high protein low calorie variant for the gymbros. This recipe is solidly part of my weekly rotation, and is hard to get bored of. **make sure to read the variations section for various improvements on the base recipe.**
 
 
 # Cost and Nutrition per serving
