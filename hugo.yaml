@@ -20,7 +20,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Sufi's Blog
   description: "I vomit my thoughts onto this website"
-  keywords: [Blog, Portfolio, PaperMod]
+  keywords: [Blog, Portfolio, Recipe]
   author: Me
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -76,11 +76,23 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Sufi's Blog"
-    Content: " I'm a student, and thus i like recipes that are \n 1) cheap \n 2) accessible \n 3) freaking delicious \n \n and that's what i'll be posting here. I do the testing and the trial and error, and you get to reap the rewards. Happy cooking!"
+    Content: |
+     I'm a student, and thus i like recipes that are 
+     1) cheap
+     2) accessible 
+     3) freaking delicious 
+
+     and that's what i'll be posting here.
+     
+     ## Each post is high quality and handwritten, no AI slop. 
+     
+     Each recipe will contain multiple variations(including high protein low calorie variants where possible), 
+     in depth discussion of techniques where needed, and accurate cost and nutrition numbers. There will be no fluff or filler, my objective is to make a website where 
+     all the information is condensed, brief, and accessible. If you have any suggestions or wish to contribute, please open an issue or PR on this website's github page. Happy reading!
 
   socialIcons:
     - name: github
-      url: "https://github.com/suficient"
+      url: "https://github.com/suficient/suficient.github.io"
 
 # change this later
   analytics:
@@ -98,7 +110,7 @@ params:
     # responsiveImages: false
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/suficient/suficient.github.io/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 

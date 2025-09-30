@@ -11,14 +11,21 @@
     </image>
     <generator>Hugo -- 0.150.1</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Sep 2025 11:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Sep 2025 10:28:28 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome! Here&#39;s what you can expect.</title>
       <link>http://localhost:1313/posts/welcome/</link>
-      <pubDate>Mon, 15 Sep 2025 11:30:03 +0000</pubDate>
+      <pubDate>Mon, 29 Sep 2025 11:30:03 +0000</pubDate>
       <guid>http://localhost:1313/posts/welcome/</guid>
       <description>Optimized, Cheap, Accessible recipes for the broke college student</description>
+    </item>
+    <item>
+      <title>Shakshouka - Recipe #1</title>
+      <link>http://localhost:1313/posts/recipes/shakshouka/</link>
+      <pubDate>Tue, 30 Sep 2025 10:28:28 +0000</pubDate>
+      <guid>http://localhost:1313/posts/recipes/shakshouka/</guid>
+      <description>[₹] Tomatoes, eggs, and spices come together for an S tier high protein budget meal, with infinite variation. 15-20 minute cook time.</description>
     </item>
   </channel>
 </rss>

@@ -1,7 +1,7 @@
 ---
 title: "Welcome! Here's what you can expect."
-date: 2025-09-15T11:30:03+00:00
-# weight: 1
+date: 2025-09-29 11:30:03+00:00
+weight: 1
 # aliases: ["/first"]
 tags: ["meta"]
 author: " "
@@ -12,7 +12,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "Optimized, Cheap, Accessible recipes for the broke college student"
-canonicalURL: "https://suficient.github.io/posts/testpost"
+canonicalURL: "https://suficient.github.io/posts/welcome"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
@@ -48,4 +48,4 @@ A lot of online recipes are **impractical**, **expensive**, or aimed more at get
 difficult in India. There's a lot of great indian content creators, but there isn't that much stuff aimed at your **average bachelor**. 
 
 
-Thus, my niche reveals itself: **if you're a college student who wants recipes that can be made in large batches, costing below 50-60 rupees per plate, made with ingredients easily accessible to the average indian, i'm your girl.**
+Thus, my niche reveals itself: **if you're a college student or prefessional who wants recipes that can be made in large batches, costing below 50-60 rupees per plate, made with ingredients easily accessible to the average indian, i'm your girl.**
